@@ -5,7 +5,7 @@
   Olá 👋, eu sou Cibele. Sou desenvolvedora <strong>Front-end Developer.</strong>
 </p>
 
-<p align="left"><strong>Seja bem-vindos ao meu perfil!</strong><br><br>
+<p align="left"><strong>Seja bem-vindo(a) ao meu perfil!</strong><br><br>
 
 <p align="left">
   🦄 Linguagens: 
