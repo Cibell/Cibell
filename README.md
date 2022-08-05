@@ -5,8 +5,11 @@
   Olá 👋, eu sou Cibele. Sou desenvolvedora <strong>Front-end Developer.</strong>
 </p>
 
+<p align="left"><strong>Seja bem-vindos ao meu perfil!</strong><br><br>
+
 <p align="left">
-  🦄 Linguagens: <strong>HTML, CSS, JavaScript.</strong>
+  🦄 Linguagens: 
+<strong>Html, CSS, Styde-components, JavaScipt e React.</strong>
 </p>
 
 <p align="left">
