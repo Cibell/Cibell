@@ -15,7 +15,7 @@
 
 <p align="center">
   <em>
-    this is me, Cibele Cordeiro, graduating from the 4th period of <b>Systems Analysis and Development</b>.<br>
+    This is me, Cibele Cordeiro, graduating from the 4th period of <b>Systems Analysis and Development</b>.<br>
     A budding <b>Front-end Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>The <b>obsessed</b>
     with the idea of <b>improving  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp in web development.
